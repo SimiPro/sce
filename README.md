@@ -1,0 +1,4 @@
+sce
+===
+
+Scala Chess Engine
